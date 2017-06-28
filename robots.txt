@@ -5,3 +5,5 @@ User-agent: *
 # Adding a line for rebasing example, then more changes from myfeature branch too.
 
 All rights reserved.
+
+Updating for emergency fix after stashing.
